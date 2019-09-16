@@ -1,0 +1,112 @@
+
+
+#body{
+	border-radius: 24px;
+	border: 20px;
+	background: url(https://wallpapercave.com/wp/wp2820900.jpg) no-repeat  fixed;
+	font-size: none;
+
+	padding-bottom: 10px;
+	background-size: cover;
+}
+
+#head{
+		
+		float: top;
+		border-radius: 24px;
+		border: 2px solid;
+		
+		text-align: center;
+
+		padding: 20px;
+		margin-top: 0px;
+		border-top: none;
+}
+
+#nav{
+
+		display: inline-block;
+		vertical-align: top;
+			width: 11%;
+			height: 600px;
+
+				
+	margin-left: -2px; 
+	border-right:  2px solid;
+	}
+
+#feed{
+		display: inline-block;
+		text-align: center;
+		vertical-align: right;
+			width: 88%;
+			
+	border-radius: 20px;
+
+	}
+
+#foot{
+	display: inline-block;
+	vertical-align: bottom;
+	text-align: bottom ;
+	text-align: right;
+	border-bottom: 2px solid;
+	width: 100%;
+	}
+
+#logo{
+	padding-top: 30px ;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  padding: 10px ;
+
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #000000;
+}
+
+
+
+ 	
+.column {
+ display: inline-block;
+
+width: 45%;
+}
+
+.row{
+	}
+
+	#left
+	{
+		width:70%;
+		 
+   padding: 20px;
+	}
+
+	#right
+	{
+		  width:70%;
+		  margin-left:  50px;
+		   margin-right:  100px;
+		   padding: 20px;
+	}
+
+#hover:link {
+  color: green;
+}
+
+
+#hover:hover {
+  color: red;
+}
+
+
+#hover:active {
+  color: yellow;
+} 

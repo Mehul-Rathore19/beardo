@@ -1,0 +1,42 @@
+
+#div{
+	background-color: black;
+	
+
+
+}
+#head{
+	text-align: center;
+	background-color: red;
+	padding: 10px;
+
+}
+
+
+.nav{
+	list-style-type: none;
+	padding: 20px;
+	font-size: 20px;
+	background-color:	#6A5ACD;
+	color: white;
+	width: 8%;
+    display: inline-block;
+  	vertical-align: top;
+  }
+
+
+#feed{
+	display: inline-block;
+  	width: 88%;
+	background-color: #DCDCDC;
+	text-align: center;
+	padding-bottom: 50PX;
+
+}
+
+#foot
+{	color: white; 
+	text-align: bottom ;
+	text-align-last: right;  
+	font-size: 32px;
+}

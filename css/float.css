@@ -1,0 +1,42 @@
+
+
+* {
+	
+
+}
+ 
+
+#body{
+	
+	background: url(https://wallpapercave.com/wp/wp2820900.jpg) no-repeat  fixed;
+	border: 2px solid;
+	margin: 2px 2px 2px 2px;
+	background-size: cover;
+}
+
+#head{
+border: 2px solid;
+text-align: center;
+padding: 20px;
+margin-top: 0px;
+border-top: none;
+}
+
+#nav{
+	border: 2px solid;
+float: left;
+width: 100px;
+}
+
+#feed{ 
+	border: 2px solid;
+	width: 600px;
+	float: right;
+}
+
+#foot{
+	float: bottom;
+	text-align: bottom ;
+	}
+
+
